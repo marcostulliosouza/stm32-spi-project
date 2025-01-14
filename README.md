@@ -53,4 +53,4 @@ Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](
 
 ## Autor
 
-Marcos Tullio - [LinkedIn](https://www.linkedin.com/in/marcos-tullio/) - [GitHub](https://github.com/seuusuario)
+Marcos Tullio - [LinkedIn](https://www.linkedin.com/in/marcostullio/) - [GitHub](https://github.com/marcostulliosouza)
